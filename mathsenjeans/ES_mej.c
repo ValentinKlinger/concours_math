@@ -1,3 +1,6 @@
+/*This program is an ES algorithm to find good patterns for a number of processors.
+What constitutes a good pattern is explained in the PDF.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
